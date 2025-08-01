@@ -14,3 +14,22 @@ print(list[-2])
 list=["eyes", "hair", "nose", "nail", "eyes"]
 print(list)
 
+#length func [len()]: used by the list to determine number of items in the list.
+print(len(list))
+
+#type() func: it defines type of a function
+print(type(list))
+
+#Range of idexex: specify a number by specifying where to start and where to end the range.
+print(list[1:5])
+print(list[:3])
+print(list[1:])
+print(list[-5:-2])
+
+
+#Determine if the specified item is in the list.
+my_list=["Cat", "Dog", "ELephant", "Lion", "Buffalo"]
+if "Dog" in my_list:
+    print("yes, it is.")
+else:
+    print("Nope!")
