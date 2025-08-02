@@ -1,10 +1,15 @@
 # List: A List is a collection which is ordered and unchangeable. It is written in square brackets[].
 
-list=["Apple", "banana", "mango"]
+list=["Apple", "banana", "pear", "mango"]
+print(list)
+
+
+#Change the Item Value:
+list[2]="guava"
 print(list)
 
 #We can access list items by index number.
-print(list[2])
+print(list[1])
 
 #Negative Indexing: Indexing begins from the end but it starts form -1 and refers to the last element.
 print(list[-2]) 
