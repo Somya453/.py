@@ -17,7 +17,14 @@
 #     print("5 x", a, "=", 5*a)
 
 
+#reverse order
+# range(10,1, -1)
+# for i in range(10,1,-1):
+#     print(i)
 
-range(10,1, -1)
-for i in range(10,1,-1):
+#while loop
+print("while loop")
+i=1
+while(i<=5):
     print(i)
+    i=i+1
