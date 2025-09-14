@@ -18,3 +18,8 @@ print(num)
 # sort()
 # reverse()
 # index()
+# Push()
+# Pop()
+# Peek()-->shows last element
+# Display()-->display list
+# Exit()
