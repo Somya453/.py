@@ -48,3 +48,8 @@ print(type(n))
 
 print(len(n))
 
+# m=min(n)
+# print(m)
+
+# i=n.sort()
+# print(i)

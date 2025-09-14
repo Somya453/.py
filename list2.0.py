@@ -39,8 +39,18 @@ for a in range(t):
 # insert()-->insert any value
 # extends()-->extends or add a value
 # Update()--> updates the full list
+# count()
+# max()
+# min()
+
 
 #Creating a list
 num=[h for h in range(1, 51)]
 print(num)
+
+j=num.count(10)
+print(j)
+
+max=max(num)
+print(max)
 
