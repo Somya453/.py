@@ -41,4 +41,10 @@ else:
 
 
 n=[13, 11, 20, 55, 'Heloo']
+print(n[3], n[4])
+print(n[0::3]) #increment by 2
+print(n[-1::-1]) #reverse the list
 print(type(n))
+
+print(len(n))
+

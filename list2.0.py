@@ -26,4 +26,21 @@ list2=["BMW", "Toyota", "Mercedes"]
 list1.extend(list2)
 print(list1)
 
+m=[10, 20, 30, 40, 50]
+t=len(m)
+for a in range(t):
+    print(m[a])
+
+# del()
+# pop()
+# clear()-->blanks full list
+# remove()
+# append()-->adds on value at the end
+# insert()-->insert any value
+# extends()-->extends or add a value
+# Update()--> updates the full list
+
+#Creating a list
+num=[h for h in range(1, 51)]
+print(num)
 
