@@ -1,3 +1,2 @@
-print(s[-2])
-# for a in s:
-#     print(a)
+b="Girl"
+# print(ord(b))

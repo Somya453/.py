@@ -38,3 +38,7 @@ if "Dog" in my_list:
     print("yes, it is.")
 else:
     print("Nope!")
+
+
+n=[13, 11, 20, 55, 'Heloo']
+print(type(n))

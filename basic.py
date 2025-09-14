@@ -50,3 +50,17 @@ print(s.find('o',5))
 # set--> Unordered collection of unique items
 # s={1,2,3,4,5,5,5,5}
 # print(s)
+
+
+a=50
+print(chr(a))
+
+# b="Girl"
+# print(ord(b))
+
+w='Welcome to {} World!'.format('this');
+print(w)
+
+p='{a:>10} + {t:^6}'.format(a=50, t=50)
+print (p)
+
