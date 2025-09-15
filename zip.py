@@ -11,5 +11,4 @@ print(n)
 j=n.split()
 print(j)
 
-#Stack is a linear data structure (Lifo and Filo)
 
