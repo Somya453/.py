@@ -57,3 +57,17 @@
 
 # Modules--> a library that is a collection of classes, variables and functions.
 > Used for code reusability.
+
+# Math Module:
+> Math.ceil()
+> Math.fab()
+> Math.factorial()
+> Math.floor()
+> Math.sqrt(x)
+> random.randint(x, y)
+> random.randrange(x, y)
+> random.choice(l) -->used for list
+> random.suffle(l)
+
+# Date and Time Module
+import datetime
