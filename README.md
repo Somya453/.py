@@ -1,9 +1,9 @@
 # Python... 
->All about Python!
+> All about Python!
 # List 
 # Creating a list
->num=[h for h in range(1, 51)]
->print(num)
+> num=[h for h in range(1, 51)]
+> print(num)
 # del()
 # pop()
 # clear()-->blanks full list
@@ -32,10 +32,28 @@
 # keys()-->gets key
 # values()--> gets key values
 
-# Nested Dictionary--> arrange mutiple dictionaries in a single dictionary. Uses: {} braces
+# Nested Dictionary--> arrange mutiple dictionaries in a single dictionary. 
+> Uses: {} braces
 
-# Tuples--> Ordered data type and immutable (keeps values comma separated). Uses: () braces
->min()
->max()
->count()
->sum()--> works for integers
+# Tuples--> Ordered data type and immutable (keeps values comma separated).
+> Uses: () braces
+> min()
+> max()
+> count()
+> sum()--> works for integers
+
+
+# Sets--> Unordered || Unindexed (include values)
+> Uses: {} braces
+> set()
+> add()
+> pop()
+> remove()
+> Update()
+> clear()
+> discard()
+
+# Function--> block of statement which can be used repetitively in a program. It saves time of a developer.
+
+# Modules--> a library that is a collection of classes, variables and functions.
+> Used for code reusability.

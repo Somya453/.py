@@ -23,3 +23,4 @@ print(i)
 
 sum=sum(t)
 print(sum)
+
