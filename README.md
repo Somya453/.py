@@ -1,5 +1,6 @@
 # Python... 
 > All about Python!
+> Beginner to Advance
 # List 
 # Creating a list
 > num=[h for h in range(1, 51)]
@@ -70,4 +71,32 @@
 > random.suffle(l)
 
 # Date and Time Module
-import datetime
+> import datetime
+> datetime.datetime.now()
+
+# Pickle: a library that centralize and decentralize a data.
+> Methods: dump(stores data) and load(load data)
+
+# JSON: Javascript object notation
+> storesa and transfer data between browser and the server
+> Python also supports JSON with a built in package (JSON)
+> it supports string, number, boolean, null, object, array
+
+# OOPs: (Class and object)
+> Methods
+> Constructor
+> Inheritance
+> Encapsulation
+
+# Inheritance
+> Single Inheritance
+> Multi Level Inheritance
+> Multiple Inheritance
+
+# Encapsulation
+> Getter 
+> Setter
+
+# Polymorphism
+> Overloading
+> Overriding
