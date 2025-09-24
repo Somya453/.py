@@ -104,3 +104,10 @@
 # Python Errors and Built in Exceptions
 > Syntax errors
 > Logical errors
+
+# Exception Handling in Python
+> Zero Devision Error
+> Name Error
+> Type Error
+> Value Error
+
