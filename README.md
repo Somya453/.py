@@ -100,3 +100,7 @@
 # Polymorphism
 > Overloading
 > Overriding
+
+# Python Errors and Built in Exceptions
+> Syntax errors
+> Logical errors
