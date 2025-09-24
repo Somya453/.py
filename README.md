@@ -110,4 +110,10 @@
 > Name Error
 > Type Error
 > Value Error
+> Index Error
+> Key Error
+> Module Not Found Error
+> Import Error
+
+# SQLite --> very light database
 
