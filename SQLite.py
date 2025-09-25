@@ -43,8 +43,15 @@ print(dat)
 
 
 #update
-con.execute('''
-    update student set st_name='mayank' st_id=2
-''')
-con.commit()
-con.close()
+# t=con.execute('''
+#     update student set st_name='mayank' st_id=2
+# ''')
+# print(t)
+# con.commit()
+# con.close()
+
+# search
+st_email=input("Enter the student name:")
+srch=con.execute("SELECT * FROM student where st_name like '%' + st_name + '%' ")
+for n in data:
+    print(n[0], "     ",n[1],"        ",n[2],n[3])
